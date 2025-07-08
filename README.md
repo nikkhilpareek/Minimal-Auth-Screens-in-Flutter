@@ -1,16 +1,36 @@
-# start
+<h1 align="center" id="title">Minimal Auth Screens in Flutter</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/nikkhilpareek/Minimal-Auth-Screens-in-Flutter/image?custom_description=A+Simple+and+Minimal+Auth+Screen+Project+made+in+Flutter.+Includes+Onboarding+%2C+Log+in%2C+Sign+in+and+Forgot+Password+Screen.&amp;custom_language=Dart&amp;description=1&amp;font=Jost&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Auto" alt="project-image"></p>
 
-## Getting Started
+<p id="description">A Simple and Minimal Auth Screen Project made in Flutter. Includes Onboarding Log in Sign in and Forgot Password Screen.</p>
 
-This project is a starting point for a Flutter application.
+<h2>🚀 Demo</h2>
 
-A few resources to get you started if this is your first Flutter project:
+[https://nikkhilpareek.github.io/Minimal-Auth-Screens-in-Flutter/](https://nikkhilpareek.github.io/Minimal-Auth-Screens-in-Flutter/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h2>Project Screenshots:</h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://github.com/nikkhilpareek/Minimal-Auth-Screens-in-Flutter/blob/main/screenshots/onboarding.png?raw=true" width="200" />
+  <img src="https://github.com/nikkhilpareek/Minimal-Auth-Screens-in-Flutter/blob/main/screenshots/login.png?raw=true" width="200" />
+  <img src="https://github.com/nikkhilpareek/Minimal-Auth-Screens-in-Flutter/blob/main/screenshots/forgotpassword.png?raw=true" width="200" />
+  <img src="https://github.com/nikkhilpareek/Minimal-Auth-Screens-in-Flutter/blob/main/screenshots/signin.png?raw=true" width="200" />
+</p>
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here are some of the project's best features:
+
+*   Minimal Design
+*   View/Hide Password
+*   Buttons for Google Facebook Apple Login
+*   Forgot Password Page based on Email
+    
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Flutter
+*   Lottie Files
